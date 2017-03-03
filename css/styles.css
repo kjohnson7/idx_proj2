@@ -5,6 +5,40 @@ body{
 	background-color: #c3c3c3;
 }
 
+.navcontainer a{
+	font-family: 'Lato', sans-serif;
+	color:black; 
+}
+
+.navcontainer a:hover { 
+    color:red;
+}
+
+.navcontainer{
+	text-align: right;
+	padding:1em;
+	padding-right: 40px;
+}
+
+p.header{
+	font-family: 'Lato', sans-serif;
+	font-size: 48px;
+	font-weight:bold;
+}
+
+p.sub{
+	font-family: 'Lato', sans-serif;
+	font-size:24pt;
+	font-weight: 100;
+	
+}
+
+#headernav{
+	background-color: #FFFFFF;
+	width:100%;
+	height:600px;
+}
+
 img{
 	padding:none;
 	width:90%;
