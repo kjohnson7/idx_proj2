@@ -29,9 +29,14 @@ body{
 
 .navcontainer{
 	text-align: right;
-	padding:1em;
+	padding:2em;
 	padding-right: 40px;
+	background-color: #fff;
 
+}
+
+a + img:hover{
+	opacity:20%;
 }
 
 h1{
@@ -45,7 +50,7 @@ h1{
 
 h2{
 	font-family: 'Lato', sans-serif;
-	font-size:28pt;
+	font-size:22pt;
 	font-weight: 500;
 	margin:0;
 	
@@ -69,6 +74,10 @@ p{
 
 .colorcontainer{
 	background-color: #FFFFFF;
+}
+
+.colorcontainer2{
+	background-color: #EAEDED;
 }
 
 #descriptioncontainer{
@@ -118,9 +127,36 @@ p{
 
 }
 
+/* main button style */
+.btn-paginationbio {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background: #fff;
+    border-radius: 100px;
+    border: 1px solid #d2d2d2;
+    cursor: pointer;
+    color: #a9a9a9;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 12px 20px;
+    text-transform: uppercase;
+    text-align:center;
+    width:80px;
+    display:inline-block;
+
+}
+
 /* hover state */
 .btn-pagination:hover {
     background: #f8f8f8;
+    color:#2f4960;
+}
+
+
+/* hover state */
+.btn-paginationbio:hover {
+    border:2px solid #d2d2d2;
     color:#2f4960;
 }
 
@@ -131,6 +167,16 @@ img{
 }
 
 
+.svgdiv{
+	width:60%;
+	margin:auto;
+	padding-top:1em;
+}
+
+
+
+
+#Value { display: none;}
 
 
 /* media queries 
