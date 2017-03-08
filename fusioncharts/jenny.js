@@ -407,7 +407,7 @@ FusionCharts.ready(function () {
                             "tllabel": "Class",
                             "trlabel": "Advanced Viz Design"
                         },
- 						{
+                        {
                             "rowid": "8 pm",
                             "columnid": "Wednesday",
                             "value": "4",
@@ -569,7 +569,7 @@ FusionCharts.ready(function () {
                             "tllabel": "Sleep",
                             "trlabel": "6hr 49min"
                         },
-						{
+                        {
                             "rowid": "5 am",
                             "columnid": "Friday",
                             "value": "11",
@@ -593,42 +593,42 @@ FusionCharts.ready(function () {
                         {
                             "rowid": "9 am",
                             "columnid": "Friday",
-                            "value": "7",
+                            "value": "4",
                             "tllabel": "Class",
                             "trlabel": "Thesis"
                         },
                         {
                             "rowid": "10 am",
                             "columnid": "Friday",
-                            "value": "7",
+                            "value": "4",
                             "tllabel": "Class",
                             "trlabel": "Thesis"
                         },
                         {
                             "rowid": "11 am",
                             "columnid": "Friday",
-                            "value": "7",
+                            "value": "4",
                             "tllabel": "Class",
                             "trlabel": "Thesis"
                         },
                         {
                             "rowid": "Noon",
                             "columnid": "Friday",
-                            "value": "7",
+                            "value": "4",
                             "tllabel": "Class",
                             "trlabel": "Thesis"
                         },
                         {
                             "rowid": "1 pm",
                             "columnid": "Friday",
-                            "value": "7",
+                            "value": "4",
                             "tllabel": "Class",
                             "trlabel": "Thesis"
                         },
                         {
                             "rowid": "2 pm",
                             "columnid": "Friday",
-                            "value": "7",
+                            "value": "4",
                             "tllabel": "Class",
                             "trlabel": "Thesis"
                         },
