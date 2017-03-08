@@ -163,7 +163,7 @@ p{
     border-radius: 24px;
     border: 1px solid #d2d2d2;
     cursor: pointer;
-    color: #a9a9a9;
+    color: #7c7c7c;
     font-family: 'Lato', sans-serif;
     font-size: 14px;
     font-weight: 500;
@@ -177,16 +177,16 @@ p{
 
 /* hover state */
 .btn-pagination:hover {
-    background: #f8f8f8;
-    color:#2f4960;
-    border: 1px solid #d2d2d2;
+    color:#fff;
+    background-color:#6b7074;
+   
 }
 
 
 /* hover state */
 .btn-paginationbio:hover {
-    border:2px solid #d2d2d2;
-    color:#2f4960;
+    border:1px solid #7c7c7c;
+    background-color:#e5e5e5;
 
 }
 
@@ -276,7 +276,8 @@ img{
     }
 
      .btn-paginationbio{
-    	padding:6px 4px; 
+    	padding:6px 4px;
+
     	
     	font-size: 50%
     }
