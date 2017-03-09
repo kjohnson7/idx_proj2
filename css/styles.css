@@ -269,6 +269,10 @@ img{
     	font-size: 2em;
     }
 
+    h4{
+    	font-size:80%;
+    }
+
     .btn-pagination{
     	padding:6px 4px; 
     	
